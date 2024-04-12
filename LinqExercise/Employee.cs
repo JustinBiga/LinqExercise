@@ -25,10 +25,8 @@ namespace LinqExercise
             Age = age;
             YearsOfExperience = yearsOfExperience;
         }
-        
-        public Employee()
-        {
-            
-        }
+       
+
+       
     }
 }
